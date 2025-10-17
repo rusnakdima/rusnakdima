@@ -33,8 +33,8 @@
 <p><a target="_blank" href="https://dev.to/@dmitriy303" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.codepen.io/@ecswcktt" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a>
 <a target="_blank" href="https://codesandbox.com/u/rusnakdima" style="display: inline-block;"><img src="https://img.shields.io/badge/codesandbox?style=for-the-badge&logo=codesandbox&logoColor=white&color=black" alt="codesandbox" /></a>
-<a target="_blank" href="https://www.dribbble.com/Dmitriy" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=#ea64d9" alt="dribbble" /></a>
-<a target="_blank" href="https://www.behance.net/Dmitriy Rusnak" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=#0057ff" alt="behance" /></a>
+<a target="_blank" href="https://www.dribbble.com/Dmitriy303" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=#ea64d9" alt="dribbble" /></a>
+<a target="_blank" href="https://www.behance.net/af71c459" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=#0057ff" alt="behance" /></a>
 <a target="_blank" href="https://www.youtube.com/@DmitriyRusnak" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusnakdima&show_icons=true&locale=en" alt="rusnakdima" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusnakdima&" alt="rusnakdima" /></p>
